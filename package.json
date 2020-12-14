@@ -1,0 +1,14 @@
+{
+  "name": "reqester",
+  "version": "1.0.0",
+  "description": "Wysyła zapytania get na wskazany request w pętli i wyświetla odpowiedź w konsoli ",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arkadiusz Bryska",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
